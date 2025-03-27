@@ -1,0 +1,3 @@
+[submodule "maine-data"]
+	path = maine-data
+	url = git@github.com:matthewse19/maine-data.git
