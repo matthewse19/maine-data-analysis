@@ -1,3 +1,6 @@
 [submodule "maine-data"]
 	path = maine-data
 	url = git@github.com:matthewse19/maine-data.git
+[submodule "github-pages/HOSS-gh-page"]
+	path = github-pages/HOSS-gh-page
+	url = git@github.com:matthewse19/HOSS-gh-page.git
